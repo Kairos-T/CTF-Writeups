@@ -45,7 +45,7 @@ We can see qwerty shift to the right gets **"thisistheflag"** as the flag.
 
 Seems like "rotation" is a hint, so I went for the ROT ciphers. But there are several different ROT ciphers, and I had to use the [dCode.fr cipher identifier tool](https://www.dcode.fr/cipher-identifier), which identified the cipher as:
 
-<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (30) (1).png" alt=""><figcaption></figcaption></figure>
 
 Hence, going to the [ROT-47 Cipher brute force tool](https://www.dcode.fr/rot-47-cipher), I got "**Wht\_is\_the\_password**" as the flag.
 

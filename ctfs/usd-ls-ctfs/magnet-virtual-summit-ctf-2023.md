@@ -18,7 +18,7 @@ This looks like morse code to me, but to be safe, I still chucked the string to 
 
 dcode.fr also did provide with the [morse code translator](https://www.dcode.fr/morse-code), which gave the flag:&#x20;
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Flag: "KEY:PINEAPPLEONPIZZAISGREAT!"
 
@@ -88,7 +88,7 @@ Cyberchef does have a tool for AES Decryption too, but I still required a Key an
 
 Or... not. I am back to being stumped! I had to take many looks at this question to solve it, but I realised the hint was "no cap(s)". So I made all the letters in both the Key and IV lowercase and:&#x20;
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (32) (1).png" alt=""><figcaption></figcaption></figure>
 
 I got the flag after changing HEX to UTF8 too.&#x20;
 
@@ -138,7 +138,7 @@ Flag: 4
 
 Looking throuhg the Chrome Autofill, I could see the emails found for the previous question, and an additional email.
 
-<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure>
 
 Flag: tlouis@kurvalis.com
 
@@ -176,7 +176,7 @@ Flag: blue
 
 I did see something related to servers along the way as I was going through the different data in iLEAPP, and it was in the Chrome Keyword Search Terms tab.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
 
 There are two servers being addressed here - CSGO and Rust. I'm guessing however, that with the keyword "Steam", CSGO was the server the user was trying to make, which was right.
 
