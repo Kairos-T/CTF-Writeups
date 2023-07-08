@@ -26,4 +26,4 @@ coverY: 0
 * [GreyCTF'23 ](https://ctf.kairostay.com/ctfs/usd-ls-ctfs/greyctf23)
 * [SEETF'23](https://ctf.kairostay.com/ctfs/usd-ls-ctfs/seetf23) \[WIP]
 * [CDDC BrainHack 2023](https://ctf.kairostay.com/ctfs/usd-ls-ctfs/cddc-brainhack-2023) \[WIP]
-* [Magnet Virtual Summit CTF 2023](https://ctf.kairostay.com/ctfs/usd-ls-ctfs/magnet-virtual-summit-ctf-2023) \[Android -WIP]
+* [Magnet Virtual Summit CTF 2023](https://ctf.kairostay.com/ctfs/usd-ls-ctfs/magnet-virtual-summit-ctf-2023) \[Android - WIP]
