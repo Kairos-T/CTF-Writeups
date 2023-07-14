@@ -116,7 +116,7 @@ This took a bit of time to find out, since I had to go through the different use
 
 The first email: blueisth3best@icloud.com found under the account data tab.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 The second and third email was also easy to find; under the Chrome Login Data tab.
 
@@ -150,7 +150,7 @@ Flag: tlouis@kurvalis.com
 
 This was the first iOS challenge I found the flag for, and the user's email account could simply be found under the Account Data report tab.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Flag: blue
 
