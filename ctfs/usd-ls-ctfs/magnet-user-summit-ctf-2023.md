@@ -179,7 +179,7 @@ U2V0LVN0cmljdE1vZGUgLVZlcnNpb24gMgoKZnVuY3Rpb24gZnVuY19nZXRfcHJvY19hZGRyZXNzIHsK
 
 This time, I used [CyberChef](https://gchq.github.io/CyberChef/) instead, another useful tool for decoding ciphers.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 I saw another chunk of encrypted text there ending with "==" but trying to decode it from Base64 was of no help. I tried to run that code on Visual Studio Code, but I was just met with errors.&#x20;
 
