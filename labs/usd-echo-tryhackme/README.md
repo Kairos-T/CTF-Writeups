@@ -7,4 +7,5 @@ TryHackMe has been my go-to website to learn cybersecurity concepts! It is a pla
 Lab writeups:
 
 1. [Basic Pentesting](https://ctf.kairostay.com/labs/usd-echo-tryhackme/basic-pentesting)
-2. OhSINT
+2. [OhSINT](https://ctf.kairostay.com/labs/usd-echo-tryhackme/ohsint)
+3. BluePrint

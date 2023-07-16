@@ -18,3 +18,4 @@
 * [$ echo "TryHackMe"](labs/usd-echo-tryhackme/README.md)
   * [Basic Pentesting](labs/usd-echo-tryhackme/basic-pentesting.md)
   * [OhSINT](labs/usd-echo-tryhackme/ohsint.md)
+  * [BluePrint](labs/usd-echo-tryhackme/blueprint.md)
