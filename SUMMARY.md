@@ -19,3 +19,5 @@
   * [Basic Pentesting](labs/usd-echo-tryhackme/basic-pentesting.md)
   * [OhSINT](labs/usd-echo-tryhackme/ohsint.md)
   * [BluePrint](labs/usd-echo-tryhackme/blueprint.md)
+* [$ echo "PortSwigger Challenges"](labs/usd-echo-portswigger-challenges/README.md)
+  * [SQL Injection](labs/usd-echo-portswigger-challenges/sql-injection.md)
