@@ -6,6 +6,10 @@ coverY: 0
 
 # 👋 $ whoami
 
+### <mark style="color:red;">NOTE:</mark>
+
+> I am no longer updating this website :disappointed\_relieved:. To view my CTF writeups, head to [www.404Unfound.com](https://404unfound.com/authors/kairos/)! As for my other write-ups (such as labs), head to [www.blog.kairostay.com](https://blog.kairostay.com/).
+
 Hi! I'm Kairos, a Year 1 Cybersecurity & Digital Forensics student at Ngee Ann Polytechnic :mortar\_board:. I'm passionate about all things related to technology and cybersecurity (especially forensics!). On this page, you'll find a collection of my experiences from various Capture The Flag (CTF) events and labs I've participated in. I'll be sharing write-ups and insights about the challenges and solutions I encountered along the way.
 
 
